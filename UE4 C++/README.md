@@ -17,15 +17,15 @@ UE4使用的C++11，C++14里的高级用法没有集成进去。
 
 cmd里也能用
 
-dir 列出当前目录下的文件以及文件夹
-md 创建目录
-rd 删除目录
-cd 进入指定目录
-cd .. 退回到上一级目录
-cd/ 退回到根目录
-del 删除文件
-exit 退出DOS
-cl 编译和链接
+- dir 列出当前目录下的文件以及文件夹
+- md 创建目录
+- rd 删除目录
+- cd 进入指定目录
+- cd .. 退回到上一级目录
+- cd/ 退回到根目录
+- del 删除文件
+- exit 退出DOS
+- cl 编译和链接
 
 #### 如何编译成执行文件
 
@@ -45,10 +45,10 @@ void main()
 }
 ```
 
-将上述代码保存为`test.c`
-Visual Studio 2015 -> Visual Studio Tools -> VS2015开发人员命令提示
-cd进入代码文件的所在目录，输入`cl test.c`
-桌面上会出现`test.c`和`test.obj`
+- 将上述代码保存为`test.c`
+- Visual Studio 2015 -> Visual Studio Tools -> VS2015开发人员命令提示
+- cd进入代码文件的所在目录，输入`cl test.c`
+- 桌面上会出现`test.c`和`test.obj`
 
 ### VSCode+WinGW
 
