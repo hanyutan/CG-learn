@@ -1,0 +1,3 @@
+﻿  test.cpp
+f:\github\cg-learn\c++\learncpp\learncpp\test.cpp(5): warning C4326: “main”的返回类型应为“int”而非“void”
+  LearnCpp.vcxproj -> F:\github\CG-learn\C++\LearnCpp\Debug\LearnCpp.exe
