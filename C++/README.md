@@ -1,4 +1,4 @@
-## UE4 C++
+# UE4 C++
 
  预备条件：
 
@@ -11,7 +11,7 @@
 
 UE4使用的C++11，C++14里的高级用法没有集成进去。
 
-### C语言基础
+## C语言基础
 
 #### 常用命令
 
@@ -95,13 +95,24 @@ void main()
 }
 ```
 
+### 数据类型
 
+**常变量（constant variable）：**在定义变量时，加上关键字`const`，则变量的值在程序运行期间不能改变。在定义常变量时必须同时进行初始化，常变量不能被赋值。
 
+例如：`const int a=3;`
 
+### 零散知识点
 
+#### struct和typedef struct的区别
 
+typedef是类型定义的含义，使用typedef来定义结构体时，声明变量的时候可以写`Stu stu1;`（省略了struct关键字）；没有typedef来定义结构体时，声明变量的时候要写`struct Student stu1;`。
 
-
+```c
+typedef struct Student
+{
+	int a;
+}Stu;   // Stu相当于Student的别名
+```
 
 
 

@@ -1,4 +1,4 @@
-# DC-learn
+# Digital Content Learning Notes
 
  Notes for Computer Graphics Learning
 
@@ -26,6 +26,10 @@ Course Link: https://courses.edx.org/courses/course-v1:UCSanDiegoX+CSE167x+2T201
 
 ## C++
 
+### 《C++程序设计（第2版）》谭浩强
+
+2020/07/24 页码55/480
+
 ### UE4 C++入坑指南【1/27】
 
 Course Link: https://www.bilibili.com/video/av86357013/
@@ -47,16 +51,6 @@ Course Link: https://www.bilibili.com/video/av31205635
 2020/07/15
 
 - C语言成长之路04：使用VS编写C程序
-
-### SoloLearn C++
-
-2020/07/13
-
-- Basic Concepts [What is C++] [Hello, world!]
-
-2020/07/15
-
-- Basic Concepts [Getting the Tools] [Printing a Text] [Comments] [Variables]
 
 ### 清华大学c++自学教程全集
 
@@ -87,7 +81,6 @@ Course Link: https://www.bilibili.com/video/av61136219/
 - UE4从菜鸟到高手01:UnrealEngine编辑器的安装
 - UE4从菜鸟到高手02:UE4Visual Studio2017安装
 - UE4从菜鸟到高手03:Unreal Engine面板介绍
-- 
 
 ### 其他
 
@@ -109,7 +102,15 @@ https://www.bilibili.com/video/av22904675
 
 Course Link: https://www.coursera.org/specializations/unity-gameplay-programmer#courses
 
-### Blender
+## Blender
+
+2020/07/18
+
+- 编译Blender
+
+2020/07/22
+
+- 编译成功
 
 
 
